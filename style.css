@@ -284,8 +284,8 @@ main {
         font-size: 14px;
     }
     .photo {
-        width: 300px;
-        height: 200px;
+        width: 200px;
+        height: 140px;
     }
     .footer {
         flex-direction: column;
@@ -294,6 +294,7 @@ main {
 
 }
     
+
 
 
 
